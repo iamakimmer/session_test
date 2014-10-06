@@ -1,0 +1,15 @@
+{
+  "name": "session-test",
+  "version": "0.0.0",
+  "description": "cross domain session test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	  "express": "3.5.1",
+	  "passport": "0.1.18",
+	  "passport-local": "0.1.6",
+	  "passport-facebook": "1.0.2"
+	}
+}
